@@ -60,6 +60,4 @@ Feel free to reach out or collaborate:
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogindersingh&show_icons=true&locale=en" alt="yogindersingh" /></p>
-
 Thanks for stopping by! 🚀
