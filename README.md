@@ -1,17 +1,64 @@
-<h1 align="center">Hi 👋, I'm Yoginder Singh</h1>
-<h3 align="center">A passionate Java backend developer from India</h3>
+# 👋 Hi, I'm Yogi Singh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogindersingh&label=Profile%20views&color=0e75b6&style=flat" alt="yogindersingh" /> </p>
+I'm a **Skilled Backend Developer** with over 4 years of experience building scalable, efficient, and robust backend systems using **Java**, **Spring Boot**, and **Flowable BPMN**. I currently work as a **Software Engineer 2**, where I contribute to high-impact projects, mentor junior developers, and champion clean coding practices.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogindersingh" alt="yogindersingh" /></a> </p>
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 🧠 Passionate about writing maintainable, production-ready backend services.
+- 🛠️ Enjoy solving real-world problems using a blend of technology and critical thinking.
+- 👥 Believe in strong team collaboration, ownership, and continuous learning.
+- 💡 Constantly exploring emerging technologies to drive innovation and optimize workflows.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogindersingh&show_icons=true&locale=en&layout=compact" alt="yogindersingh" /></p>
+## 🧰 Tech Stack & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogindersingh&show_icons=true&locale=en" alt="yogindersingh" /></p>
+### 💻 Programming Languages
+- **Java 8**, **Java 11**
+
+### ⚙️ Frameworks & Libraries
+- **Spring Boot**, **Flowable**, **Hibernate**, **Flyway**, **gRPC**, **Spring Security**
+
+### 🛢️ Databases & Architecture
+- **MySQL**, **System Design**, **Microservices**, **REST APIs**
+
+### 🧪 Tools & Platforms
+- **GitHub**, **Postman**, **IntelliJ**, **Maven**, **Docker**, **Kubernetes (Basics)**
+
+### 💡 Key Concepts
+- **Object-Oriented Programming (OOP)**
+- **SOLID Principles**
+- **Data Structures & Algorithms**
+
+---
+
+## 📈 Professional Practices
+
+- ✅ Agile & Scrum Methodologies
+- 🤝 Cross-Functional Collaboration
+- 🧪 Emphasis on Code Quality & Best Practices
+- 👨‍🏫 Mentorship & Leadership in Development Teams
+
+---
+
+## 🧠 Soft Skills
+
+- **Leadership** – Taking initiative and driving features end-to-end
+- **Ownership** – Ensuring accountability from planning to delivery
+- **Adaptability** – Flexible with tools, domains, and changing requirements
+- **Communication** – Clear, constructive collaboration with peers and stakeholders
+- **Problem-Solving & Critical Thinking** – Breaking down complex problems efficiently
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out or collaborate:
+
+- 📧 [Your Email]
+- 💼 [LinkedIn Profile]
+- 🌐 [Portfolio/Blog if any]
+
+---
+
+Thanks for stopping by! 🚀
