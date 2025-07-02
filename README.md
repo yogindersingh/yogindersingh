@@ -23,7 +23,7 @@ I'm a **Skilled Backend Developer** with over 4 years of experience building sca
 - **MySQL**, **System Design**, **Microservices**, **REST APIs**
 
 ### 🧪 Tools & Platforms
-- **GitHub**, **Postman**, **IntelliJ**, **Maven**, **Docker**, **Kubernetes (Basics)**
+- **GitHub**, **Postman**, **IntelliJ**, **Maven**, **Docker**, **Kubernetes**
 
 ### 💡 Key Concepts
 - **Object-Oriented Programming (OOP)**
