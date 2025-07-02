@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yogi Singh
+# 👋 Hi, I'm Yoginder Singh
 
 I'm a **Skilled Backend Developer** with over 4 years of experience building scalable, efficient, and robust backend systems using **Java**, **Spring Boot**, and **Flowable BPMN**. I currently work as a **Software Engineer 2**, where I contribute to high-impact projects, mentor junior developers, and champion clean coding practices.
 
@@ -55,9 +55,8 @@ I'm a **Skilled Backend Developer** with over 4 years of experience building sca
 
 Feel free to reach out or collaborate:
 
-- 📧 [Your Email]
-- 💼 [LinkedIn Profile]
-- 🌐 [Portfolio/Blog if any]
+- 📧 yogindersingh634@gmail.com
+- 💼 https://www.linkedin.com/in/yoginder-singh-6abab5138
 
 ---
 
