@@ -71,20 +71,6 @@ Backend engineer with **5+ years of experience** designing and shipping producti
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogindersingh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&v=2026" alt="Yoginder's GitHub stats" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogindersingh&layout=compact&theme=github_dark&hide_border=true&v=2026" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yogindersingh&theme=github-dark-blue&hide_border=true&v=2026" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn — Yoginder Singh](https://in.linkedin.com/in/yoginder-singh-6abab5138)
