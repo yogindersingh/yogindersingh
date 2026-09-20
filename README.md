@@ -27,30 +27,26 @@ Backend engineer with **5+ years of experience** designing and shipping producti
 
 ## 🧰 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+### Backend
+Java 8/11/17 | Spring Boot | Spring MVC | Spring Data JPA | Hibernate
+| REST APIs | Microservices | gRPC
 
-### Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat&logo=google&logoColor=white)
-![Flowable](https://img.shields.io/badge/Flowable%20BPMN-FF6B35?style=flat&logoColor=white)
+### Distributed Systems
+Kafka | RabbitMQ | Event-Driven Architecture | Async Processing
+| Resilience4j | API Gateway
+
+### Security
+Spring Security | OAuth2 | OpenID Connect | JWT | Keycloak
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+MySQL | Redis
 
-### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+### Cloud & Infrastructure
+AWS S3 | Docker | Kubernetes | Helm | EKS
 
-### Tools & IDEs
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### Observability & CI/CD
+OpenTelemetry | Prometheus | Grafana | Loki | Tempo
+| GitHub Actions | Maven | Jib
 
 ---
 
