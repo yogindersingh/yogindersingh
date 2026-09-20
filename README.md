@@ -16,12 +16,26 @@
 
 ## 🧑‍💻 About Me
 
-Backend engineer with **5+ years of experience** designing and shipping production-grade distributed systems. I currently work at **FICO** (Bangalore), where I build scalable microservices, own features end-to-end, and mentor junior engineers.
+Backend Engineer with 5+ years of experience designing, developing, and optimizing enterprise-grade backend systems using Java, Spring Boot, and microservices.
 
-- 🔭 Currently deepening expertise in **Kubernetes**, **gRPC**, and **OAuth2 / Spring Security**
-- 🛠️ Strong foundation in **microservices architecture**, **CI/CD pipelines**, and **containerisation**
-- 🤝 Advocate for clean code, SOLID principles, and team-driven delivery
-- 📬 Open to interesting backend collaborations — reach out anytime!
+Currently working as a Software Engineer II at FICO, where I contribute to backend development for various products. My experience spans feature ownership, distributed systems, performance optimization, asynchronous processing, and production issue resolution.
+
+🔧 Core Expertise
+- Java 8/11/17, Spring Boot, REST APIs, and Microservices
+- Kafka-based asynchronous processing and event-driven architecture
+- MySQL, JPA/Hibernate, SQL optimization, and AWS S3
+- Docker, Kubernetes, EKS, and cloud-native application development
+- Flowable BPMN, gRPC, Spring Security, and OAuth2/OIDC
+- Performance testing, system optimization, and technical troubleshooting
+
+🚀 Engineering Focus
+- Building scalable and reliable backend services
+- Improving application performance and throughput
+- Designing distributed and asynchronous systems
+- Applying clean code, SOLID principles, and maintainable architecture
+- Contributing to system design, technical ownership, and mentoring
+
+📌 Interested in backend engineering, distributed systems, performance optimization, and cloud-native Java applications.
 
 ---
 
